@@ -1,6 +1,6 @@
 body {
   margin: 0;
-    background-color: #AAA;
+    background-color: #505151;
 }
 nav a {
   text-decoration: none;
@@ -67,9 +67,13 @@ article h2 {
 }
 article {
   width: 100%;
-  max-width: 1175px;
+  max-width: 975px;
   margin: 0 auto;
   color: #d13a51;
+  overflow: hidden;
+  margin-top: 35px;
+  background-color: #ccc;
+  border: 2px outset;
 }
 section {
   border-bottom: 2p solid #ccc;
@@ -129,5 +133,5 @@ margin: 25px 0;
 .Release_Date_Image{
 margin: 0px 0 20px 20px;
 height: auto;
-width: 1080px;
+width: 880px;
 }
